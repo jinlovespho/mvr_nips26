@@ -1,0 +1,35 @@
+# Results
+result_train/
+result_val/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Model checkpoints & large files
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.h5
+
+# Data
+*.hdf5
+data/
+
+# Env
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,36 @@
+# python 3.10 
+# pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
+xformers==0.0.28
+opencv-python==4.10.0.84
+wandb
+einops
+safetensors
+pre-commit
+trimesh
+huggingface_hub
+timm
+imageio
+open3d>=0.18.0
+fastapi
+uvicorn
+requests
+typer
+pillow
+omegaconf
+evo
+e3nn
+moviepy
+plyfile
+pillow_heif
+pycolmap
+gdown
+nvitop
+h5py
+
+
+# rae 
+transformers==4.57.3 
+torchdiffeq
+torch-fidelity
+
+
